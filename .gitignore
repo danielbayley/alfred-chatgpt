@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Alfred
+prefs.plist
+*.alfredworkflow
+
+# node/npm
+node_modules/
